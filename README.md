@@ -1,6 +1,6 @@
 
-<H3>ENTER YOUR NAME : ANISH M J</H3>
-<H3>ENTER YOUR REGISTER NO.212221230005</H3>
+<H3>ENTER YOUR NAME : dheeraj g</H3>
+<H3>ENTER YOUR REGISTER NO.212221040050</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 10-04-2024</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
